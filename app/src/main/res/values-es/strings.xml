@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MiPrimeraAplicacion</string>
+    <string name="main_txtName">Nombre</string>
+    <string name="main_txtLastName">Apellidos</string>
+    <string name="main_txtHail">Saludar</string>
+    <string name="main_hailMessage">Saludos</string>
+    <string name="main_textBtnReset">Reset</string>
+    <string name="main_voidMesagge" />
+    <string name="main_lblCheckBox">Educado</string>
+    <string name="main_notPoliteMessage">Quillo que</string>
+</resources>
